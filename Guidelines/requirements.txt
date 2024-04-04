@@ -1,0 +1,5 @@
+torch~=1.7.1
+tensorboard
+mlagents==0.28.0 
+protobuf==3.20
+numpy==1.23.5
